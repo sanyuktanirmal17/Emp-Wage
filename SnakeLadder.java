@@ -1,4 +1,4 @@
-public class snakeAndLadder {
+class SnakeLadder {
 	public static void main(String[] args) {
 		int player;
 		int position = 0;
